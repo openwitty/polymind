@@ -1,5 +1,5 @@
 {
-  "branches": ["master"],
+  "branches": ["master","main"],
   "repositoryUrl": "https://github.com/openwitty/polymind.git",
   "plugins": [
     [
